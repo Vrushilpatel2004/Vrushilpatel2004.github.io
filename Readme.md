@@ -2,7 +2,7 @@
 
 Welcome to the repository for my professional portfolio website! This clean, responsive, and optimized static site showcases my technical projects, engineering skills, and real-world implementations in Software Design, Data Science, and Machine Learning.
 
-🔗 **Live Website:** [https://vrushilpatel2004.github.io/](https://vrushilpatel2004.github.io/)
+🔗 **Live Website:** (https://vrushilpatel2004.github.io/)
 
 ---
 
@@ -15,15 +15,6 @@ Welcome to the repository for my professional portfolio website! This clean, res
 *   **Analytics:** Umami Analytics (Privacy-first tracker)
 *   **SEO:** Google Search Console verified meta optimization
 
----
-
-## 📂 Key Projects Featured
-
-Inside this portfolio, you will find architectural details and code deep-dives for several major projects, including:
-
-*   **RetailPulse Inventory Management System** – End-to-end predictive optimization pipeline using forecasting datasets to predict stock expiry and dynamically manage inventory constraints.
-*   **Predictive Churn & Retention Engine** – A machine learning implementation analyzing behavioral patterns and simulating A/B testing variations to minimize customer churn.
-*   **Collaborative Filtering Recommender** – User-based and Item-based recommendation engines evaluated using the MovieLens dataset.
 
 ---
 
@@ -39,11 +30,3 @@ Includes an inline, blocking JavaScript script inside the `<head>` to immediatel
 Leverages a serverless design utilizing the FormSubmit API to securely route prospective recruiter queries directly to my inbox without exposing back-end validation credentials.
 
 ---
-
-## ⚙️ Local Development Workflow
-
-To inspect or run this project codebase locally on your machine:
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Vrushilpatel2004/Vrushilpatel2004.github.io.git](https://github.com/Vrushilpatel2004/Vrushilpatel2004.github.io.git)
